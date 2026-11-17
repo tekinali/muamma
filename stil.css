@@ -99,3 +99,9 @@ footer {
   color: var(--soluk);
   text-align: center;
 }
+
+.ingilizce {
+  margin-top: 56px;
+  padding-top: 8px;
+  border-top: 2px solid var(--murekkep);
+}
